@@ -16,7 +16,7 @@
     "mockup_sets": {
         "printiment": {
             "action": "generate",
-            "coords": { "x": 401, "y": 305, "w": 448, "h": 550 },
+            "coords": { "x": 426, "y": 317, "w": 401, "h": 499 },
             "watermark_text": "[XU]",
             "title_prefix_to_add": "Official",
             "title_suffix_to_add": "Tshirts Sweater"
