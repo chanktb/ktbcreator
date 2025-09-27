@@ -1,0 +1,53 @@
+{
+    "defaults": {
+        "global_output_format": "webp",
+        "exif_defaults": {
+              "Make": "Canon",
+              "Model": "Canon EOS R5",
+              "Software": "Adobe Photoshop 25.0",
+              "FNumber": [8, 1],
+              "ExposureTime": [1, 125],
+              "ISOSpeedRatings": 100,
+              "FocalLength": [50, 1],
+              "GPSLatitude": 33.7465515,
+              "GPSLongitude": -118.0297799
+            }
+    },
+    "mockup_sets": {
+        "printiment": {
+            "action": "generate",
+            "coords": { "x": 401, "y": 305, "w": 448, "h": 550 },
+            "watermark_text": "[XU]",
+            "title_prefix_to_add": "Official",
+            "title_suffix_to_add": "Tshirts Sweater"
+        },
+        "whatwillwear": {
+            "action": "skip",
+            "coords": { "x": 353, "y": 305, "w": 454, "h": 572 },
+            "watermark_text": "",
+            "title_prefix_to_add": "",
+            "title_suffix_to_add": "Shirts"
+        },
+        "ktbtee": {
+            "action": "skip",
+            "coords": { "x": 362, "y": 254, "w": 424, "h": 582 },
+            "watermark_text": "https://ktbtee.com/wp-content/uploads/2025/08/logo.png",
+            "title_prefix_to_add": "Official",
+            "title_suffix_to_add": "Tshirt Sweatshirt"
+        },
+        "albumcoverprint": {
+            "action": "skip",
+            "coords": { "x": 358, "y": 278, "w": 466, "h": 595 },
+            "watermark_text": "[ACP]",
+            "title_prefix_to_add": "Original",
+            "title_suffix_to_add": "T Shirt Sweater"
+        },
+        "amertee": {
+            "action": "skip",
+            "coords": { "x": 366, "y": 271, "w": 443, "h": 542 },
+            "watermark_text": "https://amertee.com/wp-content/uploads/2025/09/logo.png",
+            "title_prefix_to_add": "",
+            "title_suffix_to_add": "Premium Shirt Sweater"
+        }
+    }
+}
